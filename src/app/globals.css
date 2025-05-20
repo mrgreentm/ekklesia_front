@@ -1,0 +1,17 @@
+:root {
+  --color-primary: #605BFF;
+  --color-secondary: #FF8F6B;
+  --color-background: #E5E5E5;
+  --color-surface: #FFFFFF;
+  --color-muted: #000000;
+  --color-danger: #EF4444;
+  --color-success: #3A974C;
+  --color-warning: #3A974C;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-muted);
+ 	font-family: 'Nunito';
+	margin: 0;
+}
